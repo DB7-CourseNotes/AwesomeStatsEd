@@ -18,6 +18,10 @@ I am currently in the very early stages. Feel free to contribute resources via I
 - [Introduction to Modern Statistics](https://github.com/OpenIntroStat/ims) is a Quarto-based textbook that highlights simulation-based inference.
     - [Here](https://openintro-ims.netlify.app/) it is in action!
     - Potential project: turn into slides.
+ 
+# Miscellaneous
+
+- [stat2games](https://stat2games.sites.grinnell.edu/)
 
 # Free Courses/Textbooks
 
