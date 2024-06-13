@@ -28,4 +28,5 @@ I am currently in the very early stages. Feel free to contribute resources via I
 
 - [Passion Driven Statistics](https://ldierker1.github.io/passiondrivenstatistics/) is a project based intro to stats.
     - HTML output is available, but not raw files.
+- [Discovery Illinois](https://discovery.cs.illinois.edu/)
 
