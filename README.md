@@ -27,6 +27,11 @@ Legend:
     - [Here](https://openintro-ims.netlify.app/) it is in action!
     - Potential project: turn into slides.
 - :1st_place_medal: [Penn State Statistics Courses](https://online.stat.psu.edu/statprogram/graduate-programs) include their online course notes, e.g. for [Stat 501: Regression Analysis](https://online.stat.psu.edu/stat501/).
+ 
+# Miscellaneous
+
+- [stat2games](https://stat2games.sites.grinnell.edu/)
+- CAUSEWEB has lots of great things (but lots of link rot)
 
 # Open Data
 
@@ -34,6 +39,9 @@ Legend:
 
 # Free (but Closed Source or Restrictive License) Courses/Textbooks
 
-- :1st_place_medal: [Passion Driven Statistics](https://ldierker1.github.io/passiondrivenstatistics/) is a project based intro to stats.
+- [Passion Driven Statistics](https://ldierker1.github.io/passiondrivenstatistics/) is a project based intro to stats.
     - HTML output is available, but not raw files.
-- :1st_place_medal: [UC Berkeley Data100](https://ds100.org/course-notes/) (CC NoDerivatives)
+- :2nd_place_medal: [UC Berkeley Data100](https://ds100.org/course-notes/) (CC NoDerivatives)
+- [Discovery Illinois](https://discovery.cs.illinois.edu/)
+    - Says it's open source, but I cannot find the source code.
+
