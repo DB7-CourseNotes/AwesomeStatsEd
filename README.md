@@ -41,7 +41,7 @@ Legend:
 
 - [Passion Driven Statistics](https://ldierker1.github.io/passiondrivenstatistics/) is a project based intro to stats.
     - HTML output is available, but not raw files.
-- :2nd_place_medal: [UC Berkeley Data100](https://ds100.org/course-notes/) (CC NoDerivatives)
+- :2nd_place_medal: UC Berkeley [Data8](https://inferentialthinking.com/chapters/intro.html) and [Data100](https://ds100.org/course-notes/) (CC NoDerivatives).
 - [Discovery Illinois](https://discovery.cs.illinois.edu/)
     - Says it's open source, but I cannot find the source code.
 
